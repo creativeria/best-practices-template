@@ -11,8 +11,8 @@
 El primer paso consiste en abrir la tienda de extensiones de tu IDE preferido e instalar TpLint.
 
 **Recursos**
-- [Cómo buscar extensiones en VSCode]()
-- [Cómo instalar un plugin en Sublime Text]()
+- [Cómo buscar extensiones en VSCode](http://lacreativeria.com)
+- [Cómo instalar un plugin en Sublime Text](http://lacreativeria.com)
 
 #### 2) Crear archivo tplint.conf
 Para que nuestro proyecto esté configurado correctamente, debemos definir las reglas que queremos implementar en alguna lado. En este caso será un archivo llamado tplint.conf
